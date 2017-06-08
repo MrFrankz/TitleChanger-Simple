@@ -1,0 +1,38 @@
+body {
+	background: #555;
+}
+
+h1 {
+	color: #eee;
+	font: 30px Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	text-shadow: 0px 1px black;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+label {
+	color: #eee;
+	font: 20px Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	text-shadow: 0px 1px black;
+	margin-bottom: 50px;
+}
+
+.myCheckBox {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#Inputtext{
+  display: block;
+  margin: 2em auto;
+  padding: 0.5em 0.25em;
+  border: none;
+  border-radius: 0.2em;
+  font-size: 1.5em;
+  text-align: center;
+  box-shadow: 0 0 1em 0.25em rgba(0,0,0,0.2);
+}
+
+
